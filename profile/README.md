@@ -32,6 +32,7 @@
 | [zactonz-ai-provider-ollama](https://github.com/zactonz/zactonz-ai-provider-ollama) | Local, self-hosted or Ollama Cloud models for text, images, embeddings and tool calling. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-provider-ollama/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-provider-ollama/) |
 | [zactonz-ai-connector-for-openrouter](https://github.com/zactonz/zactonz-ai-connector-for-openrouter) | Hundreds of models from dozens of labs behind one API key, with capabilities read from the OpenRouter catalogue. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-openrouter/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-openrouter/) |
 | [zactonz-ai-connector-for-groq](https://github.com/zactonz/zactonz-ai-connector-for-groq) | Very low latency inference on GroqCloud, with every model on your account discovered automatically. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-groq/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-groq/) |
+| [zactonz-ai-connector-for-deepseek](https://github.com/zactonz/zactonz-ai-connector-for-deepseek) | A very long context window, vision on the Flash model, and thinking mode you can turn up, down or off. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-deepseek/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-deepseek/) |
 
 **cPanel &amp; WHM.**
 
