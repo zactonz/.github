@@ -25,10 +25,32 @@
 
 ## Open source
 
+**WordPress AI connectors.** Each adds a provider to the AI Client's **Settings → Connectors** screen, so anything built on `wp_ai_client_prompt()` can use it.
+
 | Repository | What it is |
 |---|---|
-| [zactonz-ai-provider-ollama](https://github.com/zactonz/zactonz-ai-provider-ollama) | Ollama connector for the WordPress AI Client. Local, self-hosted or Ollama Cloud models for text, images, embeddings and tool calling. On [WordPress.org](https://wordpress.org/plugins/zactonz-ai-provider-ollama/). |
-| [zctzgit](https://github.com/zactonz/zctzgit) | WHM plugin that deploys GitHub repositories into cPanel accounts, by webhook or on demand. |
+| [zactonz-ai-provider-ollama](https://github.com/zactonz/zactonz-ai-provider-ollama) | Local, self-hosted or Ollama Cloud models for text, images, embeddings and tool calling. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-provider-ollama/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-provider-ollama/) |
+| [zactonz-ai-connector-for-openrouter](https://github.com/zactonz/zactonz-ai-connector-for-openrouter) | Hundreds of models from dozens of labs behind one API key, with capabilities read from the OpenRouter catalogue. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-openrouter/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-openrouter/) |
+| [zactonz-ai-connector-for-groq](https://github.com/zactonz/zactonz-ai-connector-for-groq) | Very low latency inference on GroqCloud, with every model on your account discovered automatically. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-groq/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-groq/) |
+
+**cPanel &amp; WHM.**
+
+| Repository | What it is |
+|---|---|
+| [zctzgit](https://github.com/zactonz/zctzgit) | WHM plugin that deploys GitHub repositories into cPanel accounts, by webhook or on demand. [Docs](https://developers.zactonz.com/cpanel-whm/zctzgit/) |
+| [cron-doctor](https://github.com/zactonz/cron-doctor) | See whether your cron jobs really run: exit codes, durations and output per run, overlap protection, alerts for jobs that fail or never start. [Docs](https://developers.zactonz.com/cpanel-whm/cron-doctor/) |
+
+**Developer tools.**
+
+| Repository | What it is |
+|---|---|
+| [zactonz-php](https://github.com/zactonz/zactonz-php) | Official PHP client for the Zactonz APIs. [Docs](https://developers.zactonz.com/tools/zactonz-php/) · [Packagist](https://packagist.org/packages/zactonz/zactonz-php) |
+| [zactonz-mcp](https://github.com/zactonz/zactonz-mcp) | Model Context Protocol server exposing the Zactonz APIs as tools for AI assistants. [Docs](https://developers.zactonz.com/tools/zactonz-mcp/) · [npm](https://www.npmjs.com/package/@zactonz/mcp) |
+
+**Frameworks.**
+
+| Repository | What it is |
+|---|---|
 | [sllms-framework](https://github.com/zactonz/sllms-framework) | Offline-first Python framework for voice assistants and dictation apps: whisper.cpp, a local LLM and Piper TTS in one pipeline. |
 
 Docs for every plugin and API live on the [developer portal](https://developers.zactonz.com). Release notes are in the [changelog](https://developers.zactonz.com/changelog/).
