@@ -20,6 +20,7 @@
 | [**VitalLens**](https://vitallens.zactonz.com) | Core Web Vitals and site-speed monitoring with competitor benchmarks and code-level fixes. |
 | [**Zotiba**](https://zotiba.com) | Digital business cards. |
 | [**ClassTools24**](https://classtools24.com) | Free classroom tools. |
+| [**NeatPencil**](https://neatpencil.com) | Free tracing and handwriting worksheets in the style each school teaches. |
 | [**NeuronFlow**](https://neuronflow.zactonz.com) | Workflow automation. |
 | [**Zactonz APIs**](https://developers.zactonz.com/apis/) | REST endpoints for QR codes, screenshots and PDF rendering, translation, email verification and file links. |
 
