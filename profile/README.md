@@ -10,12 +10,13 @@
   <a href="https://zactonz.com">zactonz.com</a> ·
   <a href="https://developers.zactonz.com">Developer portal</a> ·
   <a href="https://developers.zactonz.com/status/">API status</a> ·
+  <a href="https://profiles.wordpress.org/zactonz/">WordPress.org</a> ·
   <a href="https://zactonz.com/contact-us/">Contact</a>
 </p>
 
 ## Products
 
-| | |
+| Product | What it is |
 |---|---|
 | [**VitalLens**](https://vitallens.zactonz.com) | Core Web Vitals and site-speed monitoring with competitor benchmarks and code-level fixes. |
 | [**Zotiba**](https://zotiba.com) | Digital business cards. |
@@ -34,6 +35,14 @@
 | [zactonz-ai-connector-for-openrouter](https://github.com/zactonz/zactonz-ai-connector-for-openrouter) | Hundreds of models from dozens of labs behind one API key, with capabilities read from the OpenRouter catalogue. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-openrouter/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-openrouter/) |
 | [zactonz-ai-connector-for-groq](https://github.com/zactonz/zactonz-ai-connector-for-groq) | Very low latency inference on GroqCloud, with every model on your account discovered automatically. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-groq/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-groq/) |
 | [zactonz-ai-connector-for-deepseek](https://github.com/zactonz/zactonz-ai-connector-for-deepseek) | A very long context window, vision on the Flash model, and thinking mode you can turn up, down or off. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-deepseek/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-deepseek/) |
+| [zactonz-ai-connector-for-mistral-ai](https://github.com/zactonz/zactonz-ai-connector-for-mistral-ai) | Open-weight and commercial models, with vision, tool calling, JSON-schema structured output and reasoning effort taken from Mistral's own catalogue. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-mistral-ai/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-mistral-ai/) |
+| [zactonz-ai-connector-for-xai-grok](https://github.com/zactonz/zactonz-ai-connector-for-xai-grok) | The Grok family, with image generation alongside text and vision, and each model's modalities taken from xAI's own catalogue. [Docs](https://developers.zactonz.com/wordpress/plugins/zactonz-ai-connector-for-xai-grok/) · [WordPress.org](https://wordpress.org/plugins/zactonz-ai-connector-for-xai-grok/) |
+
+**WordPress plugins.**
+
+| Repository | What it is |
+|---|---|
+| [vitallens-wordpress](https://github.com/zactonz/vitallens-wordpress) | Core Web Vitals monitoring that keeps its own history, tells real-visitor data from lab tests, and names the element behind a failing metric. [Docs](https://developers.zactonz.com/wordpress/plugins/vitallens/) · [WordPress.org](https://wordpress.org/plugins/vitallens/) |
 
 **cPanel &amp; WHM.**
 
@@ -47,7 +56,8 @@
 | Repository | What it is |
 |---|---|
 | [zactonz-php](https://github.com/zactonz/zactonz-php) | Official PHP client for the Zactonz APIs. [Docs](https://developers.zactonz.com/tools/zactonz-php/) · [Packagist](https://packagist.org/packages/zactonz/zactonz-php) |
-| [zactonz-mcp](https://github.com/zactonz/zactonz-mcp) | Model Context Protocol server exposing the Zactonz APIs as tools for AI assistants. [Docs](https://developers.zactonz.com/tools/zactonz-mcp/) · [npm](https://www.npmjs.com/package/@zactonz/mcp) |
+| [zactonz-mcp](https://github.com/zactonz/zactonz-mcp) | Model Context Protocol server exposing the Zactonz APIs as tools for AI assistants, over stdio or HTTP. [Docs](https://developers.zactonz.com/tools/zactonz-mcp/) · [npm](https://www.npmjs.com/package/@zactonz/mcp) |
+| [zactonz-product-testing](https://github.com/zactonz/zactonz-product-testing) | A skill that tests a product the way a QA engineer would: it inventories every surface, works across functionality, UI, load and security, and leaves a runnable suite and an evidence-backed report. [Docs](https://developers.zactonz.com/skills/product-testing/) |
 
 **Frameworks.**
 
