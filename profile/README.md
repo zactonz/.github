@@ -25,6 +25,14 @@
 | [**NeuronFlow**](https://neuronflow.zactonz.com) | Workflow automation. |
 | [**Zactonz APIs**](https://developers.zactonz.com/apis/) | REST endpoints for QR codes, screenshots and PDF rendering, translation, email verification and file links. |
 
+## Android games &amp; apps
+
+| App | What it is |
+|---|---|
+| [**Echo Bloom: Chain Reaction**](https://play.google.com/store/apps/details?id=com.zactonz.echobloom) | Relaxing logic puzzle: drop pearls, set off chain reactions, wake every pond. Free on Google Play. |
+
+Everything published on Play is on the [developer page](https://play.google.com/store/apps/developer?id=Zactonz+Technologies).
+
 ## Open source
 
 **WordPress AI connectors.** Each adds a provider to the AI Client's **Settings → Connectors** screen, so anything built on `wp_ai_client_prompt()` can use it.
