@@ -22,6 +22,7 @@
 | [**Zotiba**](https://zotiba.com) | Digital business cards. |
 | [**ClassTools24**](https://classtools24.com) | Free classroom tools. |
 | [**NeatPencil**](https://neatpencil.com) | Free tracing and handwriting worksheets in the style each school teaches. |
+| [**GearOkay**](https://gearokay.com) | Free device tests that run in your browser and end in a plain answer. |
 | [**NeuronFlow**](https://neuronflow.zactonz.com) | Workflow automation. |
 | [**Zactonz APIs**](https://developers.zactonz.com/apis/) | REST endpoints for QR codes, screenshots and PDF rendering, translation, email verification and file links. |
 
